@@ -1,0 +1,2 @@
+# getData
+fetch、axios  getdata
