@@ -1,24 +1,17 @@
 # http_config
-
+```
+```
+## Project introduce
+```
+It is applicable to data acquisition on Vue and react
+(适用于Vue、react的数据获取)
+```
 ## Project setup
 ```
 npm install
 ```
-
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run start ,then go to the console ,You'll see the data acquisition
+(运行命令:npm run start ,打开控制台,你就会看见获取到的数据)
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
